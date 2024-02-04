@@ -26,7 +26,7 @@ The screenshot below shows all ETL pipelines that have been set up via Airbyte:
 ![Example Image](resources/ETL-Airbyte.png)
 
 ## PowerBI Visualization of ETL transformed data
-The screenshot below shows all ETL pipelines that have been set up via Airbyte:
+The screenshot below shows all ETL pipelines that have been set up via Airbyte in powerBI:
 ![Example Image](resources/powerBI-visualization.png)
 
 

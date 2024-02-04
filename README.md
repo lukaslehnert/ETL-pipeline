@@ -6,8 +6,10 @@ This document outlines the technical design and objectives of a project focused 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [ETL Pipelines in Airbyte](#etl-pipelines-in-airbyte)
 - [Built With](#built-with)
+- [ETL Pipelines in Airbyte](#etl-pipelines-in-airbyte)
+- [MongoDB](#mongo-db)
+- [PowerBI Visualization of ETL transformed data](#power-bi)
 - [Deployment](#deployment)
 
 ## Getting Started
@@ -23,6 +25,8 @@ These instructions will get you a copy of the project up and running on your loc
 The screenshot below shows all ETL pipelines that have been set up via Airbyte:
 ![Example Image](resources/ETL-Airbyte.png)
 
-## Built With
+## PowerBI Visualization of ETL transformed data
+The screenshot below shows all ETL pipelines that have been set up via Airbyte:
+![Example Image](resources/powerBI-visualization.png)
 
 

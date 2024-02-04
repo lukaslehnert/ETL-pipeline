@@ -27,9 +27,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-
+### ETL Pipelines in Airbyte
+The screenshot below shows all ETL pipelines that have been set up via Airbyte:
+![Example Image](resources/ETL-Aribyte.png)
 
 Simple POC using Airbyte:
 google doc source: https://docs.google.com/spreadsheets/d/1Uokt_5GApDgxYLjAUY39XIMq9jDB9PB5MhueVdzDww4/edit

@@ -7,11 +7,8 @@ This document outlines the technical design and objectives of a project focused 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [ETL Pipelines in Airbyte](#etl-pipelines-in-airbyte)
-- [Deployment](#deployment)
 - [Built With](#built-with)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Authors](#authors)
+- [Deployment](#deployment)
 
 ## Getting Started
 
@@ -19,11 +16,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-### ETL Pipelines in Airbyte
+### Installation
+
+## ETL Pipelines in Airbyte
 
 The screenshot below shows all ETL pipelines that have been set up via Airbyte:
 ![Example Image](resources/ETL-Airbyte.png)
 
-Simple POC using Airbyte:
-google doc source: https://docs.google.com/spreadsheets/d/1Uokt_5GApDgxYLjAUY39XIMq9jDB9PB5MhueVdzDww4/edit
-google doc ETL result: https://docs.google.com/spreadsheets/d/1jOhQfxEEoHNI5DbdtPpdFxITooR_biCAR1WSQkC6K7k/edit#gid=0
+## Built With
+
+

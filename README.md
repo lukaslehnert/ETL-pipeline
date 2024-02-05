@@ -35,7 +35,7 @@ The screenshot below shows the PostgreSQL database that got connected to the Mon
 </div>
 
 ### PowerBI Visualization of ETL transformed data
-The screenshot below shows all ETL pipelines that have been set up via Airbyte in powerBI:
+The screenshot below shows the transformed data via powerBI:
 
 <div style="margin-top:20px; margin-bottom:20px;">
     <img src="resources/powerBI-visualization.png" alt="Example Image">

@@ -16,28 +16,28 @@ This document outlines the technical design and objectives of a project focused 
 
 The screenshot below shows all ETL pipelines that have been set up via Airbyte: 
 
-<div style="margin-top:20px; margin-bottom:20px;">
+<div style="margin-top:20px; margin-bottom:80px;">
     <img src="resources/ETL-Airbyte.png" alt="Example Image">
 </div>
 
 ### MongoDB
 The screenshot below shows the MongoDB data entries that have been added via python scripts:
 
-<div style="margin-top:20px; margin-bottom:20px;">
+<div style="margin-top:20px; margin-bottom:80px;">
     <img src="resources/mongodb.png" alt="Example Image">
 </div>
 
 ### ElephantSQL - PostgreSQL Cloud
 The screenshot below shows the PostgreSQL database that got connected to the MongoDB via ETL-Airbyte pipeline:
 
-<div style="margin-top:20px; margin-bottom:20px;">
+<div style="margin-top:20px; margin-bottom:80px;">
     <img src="resources/postgreSQL Cloud.png" alt="Example Image">
 </div>
 
 ### PowerBI Visualization of ETL transformed data
 The screenshot below shows the transformed data via powerBI:
 
-<div style="margin-top:20px; margin-bottom:20px;">
+<div style="margin-top:20px; margin-bottom:80px;">
     <img src="resources/powerBI-visualization.png" alt="Example Image">
 </div>
 

@@ -3,13 +3,11 @@
 This document outlines the technical design and objectives of a project focused on demonstrating the construction and operation of an ETL (Extract, Transform, Load) pipeline. The project leverages a variety of data sources, integrating them into a cohesive architecture developed from the ground up. The core components of this architecture include MongoDB, ElephantSQL Cloud (PostgreSQL), and simple Google Sheets, all of which serve as foundational data storage and management systems. These databases will be populated and manipulated through Python scripts, employing ETL methodologies using Airbyte to facilitate data flow and transformation ETL approaches. Finally, we visualize the transformed data in Microsoft Power BI.
 
 ## Table of Contents
-- [Getting Started](#getting-started)
 - [Built With](#built-with)
   - [ETL Pipelines in Airbyte](#etl-pipelines-in-airbyte)
   - [MongoDB](#mongo-db)
   - [ElephantSQL - PostgreSQL Cloud](#elephant-sql)
   - [PowerBI Visualization of ETL transformed data](#power-bi)
-- [Deployment](#deployment)
 
 ## Getting Started
 

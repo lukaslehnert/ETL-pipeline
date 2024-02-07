@@ -17,7 +17,7 @@ This document outlines the technical design and objectives of a project focused 
 The screenshot below shows all ETL pipelines that have been set up via Airbyte: 
 
 <div style="margin-top:20px; margin-bottom:80px;">
-    <img src="resources/ETL-Airbyte.png" alt="Example Image">
+    <img src="resources/ETL-Airbyte_ext.png" alt="Example Image">
 </div>
 
 ### MongoDB

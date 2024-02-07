@@ -8,7 +8,7 @@ csv.field_size_limit(max_int_c_long)
 
 # MongoDB database and collection names
 db_name = 'pre_ETL'
-collection_name = 'bdew_lastenprofil_haushalt_day-specific'
+collection_name = 'bdew_lastenprofil_haushalt_day-specific_1'
 
 # MongoDB connection string
 mongo_uri = 'mongodb+srv://mongodb:19019355@etlpipeline.setotml.mongodb.net/'
@@ -20,7 +20,7 @@ client = MongoClient(mongo_uri)
 db = client[db_name]
 collection = db[collection_name]
 
-filename = 'bdew_lastenprofil_haushalt_day-specific.csv'  # Adjust the filename as necessary
+filename = 'bdew_lastenprofil_haushalt_day-specific_1.csv'  # Adjust the filename as necessary
 
 # Open the CSV file and read data
 with open(f'../data/{filename}', newline='', encoding='utf-8') as csvfile:

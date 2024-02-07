@@ -31,7 +31,7 @@ The screenshot below shows the MongoDB data entries that have been added via pyt
 The screenshot below shows the PostgreSQL database that got connected to the MongoDB via ETL-Airbyte pipeline:
 
 <div style="margin-top:20px; margin-bottom:80px;">
-    <img src="resources/postgreSQL Cloud.png" alt="Example Image">
+    <img src="resources/postgreSQL_cloud.png" alt="Example Image">
 </div>
 
 ### PowerBI Visualization of ETL transformed data

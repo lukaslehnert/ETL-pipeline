@@ -24,7 +24,7 @@ The screenshot below shows all ETL pipelines that have been set up via Airbyte:
 The screenshot below shows the MongoDB data entries that have been added via python scripts:
 
 <div style="margin-top:20px; margin-bottom:80px;">
-    <img src="resources/mongodb.png" alt="Example Image">
+    <img src="resources/mongodb_cloud.png" alt="Example Image">
 </div>
 
 ### ElephantSQL - PostgreSQL Cloud

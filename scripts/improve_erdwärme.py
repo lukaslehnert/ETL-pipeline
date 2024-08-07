@@ -17,5 +17,13 @@ def extract_coordinates(shape_str):
 # Apply the function to each row in the 'SHAPE' column and create new columns for latitude and longitude
 df[['Longitude', 'Latitude']] = df['SHAPE'].apply(lambda x: pd.Series(extract_coordinates(x)))
 
+
+#### THIS IS OUR ADDITIONAL COMMENT 
+####
+###
+#### THIS IS OUR ADDITIONAL COMMENT 
+####
+###
+
 # Display the modified DataFrame
 print(df.head())
